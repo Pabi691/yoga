@@ -417,6 +417,12 @@ margin-left: 32rem;
 .methodology-para{
   display: flex;
 }
+.methodology-btn button{
+  padding: 5px 10px;
+  border: none;
+  color: #3f505a;
+  margin-left: 50%;
+}
 p.para-left{
   text-align: justify;
 }
